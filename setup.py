@@ -25,6 +25,6 @@ setup(name              = 'Adafruit_CharLCD',
       license           = 'MIT',
 	  classifiers       = classifiers,
       url               = 'https://github.com/adafruit/Adafruit_Python_CharLCD/',
-      dependency_links  = ['https://github.com/adafruit/Adafruit_Python_GPIO/tarball/master#egg=Adafruit-GPIO-0.4.0'],
+      dependency_links  = ['https://github.com/pimylifeup/Adafruit_Python_GPIO/tarball/master#egg=Adafruit-GPIO-0.4.0'],
       install_requires  = ['Adafruit-GPIO>=0.4.0'],
       packages          = find_packages())
